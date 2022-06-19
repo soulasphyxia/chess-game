@@ -29,18 +29,6 @@ main{
 }
 
 
-.timer_enemy{
-	width: 200px;
-	height: 50px;
-	background-color: white;
-}
-
-.timer_you{
-	margin-top: 5px;
-	width: 200px;
-	height: 50px;
-	background-color: white;
-}
 
 p{
 	color: white;
